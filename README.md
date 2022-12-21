@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @xpinux!
-Little bit about myself. I am a very enthusiastic person
-Who loves technology, especially cybersecutity, networking and emulation.
+Little bit about myself. I am a very enthusiastic person Who loves technology, especially cybersecutity, networking and emulation.
+
+Bsc and Msc @UNIWA
 
 I am currently working a a L1 SOC analyst.
 
