@@ -1,12 +1,13 @@
-            - name: Credly to Hugo importer
-  # You may pin to the exact commit or the version.
-  # uses: michaelcontento/credly2hugo-action@0c759cee14172fa88896b03deb965aa9ea14574d
-  uses: michaelcontento/credly2hugo-action@v1.0.1
-  with:
-    # Username on credly
-    username: marios-bampouris
-    # Filename within the data/ folder
-    datafile: # optional, default is CredlyBadges.json
-    # Path where to store the badge images
-    imagedir: # optional, default is images/CredlyBadges
-          
+name: Update badges
+
+on:
+  workflow_dispatch
+jobs:
+  update-readme:
+    name: Update Readme with badges
+    runs-on: ubuntu-latest
+    steps:
+      - name: Badges - Readme
+        uses: pemtajo/badge-readme@main
+        with:       
+          CREDLY_USER: <username_credly> # optional, but default will use the same from github
