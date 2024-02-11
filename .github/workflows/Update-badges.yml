@@ -1,15 +1,14 @@
-name: Update badges
-
-on:
-  schedule:
-    # Runs at 2am UTC
-    - cron: "0 2 * * *"
-jobs:
-  update-readme:
-    name: Update Readme with badges
-    runs-on: ubuntu-latest
-    steps:
-      - name: Badges - Readme
-        uses: pemtajo/badge-readme@main
-        with:       
-          CREDLY_USER: marios-bampouris # optional, but default will use the same from github
+            - name: Credly importer
+  # You may pin to the exact commit or the version.
+  # uses: michaelcontento/credly-import-action@444ab575ed32962e18a005ff4b9a164c31731891
+  uses: michaelcontento/credly-import-action@v1.0.2
+  with:
+    # Username on credly
+    username: marios-bampouris
+    # Filename where to store the JSON file
+    datafile: # optional, default is CredlyBadges.json
+    # Path where to store the badge images
+    imagedir: # optional, default is CredlyBadges
+    # Wether or not we should download the badge images at all
+    skip_image_downloading: # optional, default is 0
+          
