@@ -1,14 +1,12 @@
-            - name: Credly importer
+            - name: Credly to Hugo importer
   # You may pin to the exact commit or the version.
-  # uses: michaelcontento/credly-import-action@444ab575ed32962e18a005ff4b9a164c31731891
-  uses: michaelcontento/credly-import-action@v1.0.2
+  # uses: michaelcontento/credly2hugo-action@0c759cee14172fa88896b03deb965aa9ea14574d
+  uses: michaelcontento/credly2hugo-action@v1.0.1
   with:
     # Username on credly
     username: marios-bampouris
-    # Filename where to store the JSON file
+    # Filename within the data/ folder
     datafile: # optional, default is CredlyBadges.json
     # Path where to store the badge images
-    imagedir: # optional, default is CredlyBadges
-    # Wether or not we should download the badge images at all
-    skip_image_downloading: # optional, default is 0
+    imagedir: # optional, default is images/CredlyBadges
           
