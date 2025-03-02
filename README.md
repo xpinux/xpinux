@@ -3,7 +3,6 @@
 I am an enthusiastic cybersecurity professional with expertise in computer networking, cybersecurity, and programming. I hold an MSc in Computer Engineering and Informatics, as well as a Master's in Cybersecurity.
 Here, you'll find a collection of cybersecurity scripts, as well as Microsoft Defender XDR and Microsoft Sentinel KQL queries, including analytical rules, hunting queries, and parsers.
 <!--START_SECTION:badges-->
-[![Tanium Partner Demo Qualification](https://images.credly.com/size/110x110/images/a1f1d722-bc78-408d-a0b0-47e83197cd23/image.png)](http://www.credly.com/badges/37423e8d-f5d0-4a56-9684-5553e26cdcff "Tanium Partner Demo Qualification")
 [![EY Cybersecurity - Bronze Learning (2023)](https://images.credly.com/size/110x110/images/227f0a86-7b47-4a7f-b8b4-8d3448194213/image.png)](http://www.credly.com/badges/45cfb305-7653-4828-be2d-2dae8dd9114c "EY Cybersecurity - Bronze Learning (2023)")
 [![IBM Certified Analyst - Security QRadar SIEM V7.4.3](https://images.credly.com/size/110x110/images/6c0de075-659c-4ed9-bab1-da28cc113a86/IBM_Security_QRadar_SIEM_V7.4.3_Analyst_-_Code_-_C9002900_.png)](http://www.credly.com/badges/d734097e-4d71-4272-8479-ed9b2cb5171f "IBM Certified Analyst - Security QRadar SIEM V7.4.3")
 [![IBM QRadar SIEM Foundation](https://images.credly.com/size/110x110/images/066da2d7-4808-4f43-a1b9-f32f13872084/image.png)](http://www.credly.com/badges/44912988-b0ac-49a6-afb1-60ee4d1b2b00 "IBM QRadar SIEM Foundation")
