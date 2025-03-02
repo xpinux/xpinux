@@ -1,6 +1,7 @@
-👋 Hi, `I’m @xpinux!`
+ Hi👋 and Welcome to my GitHub, `I’m @xpinux!`
 
-I am an enthusiastic individual with expertise in computer networking, cybersecurity, and programming. With an MSc in Computer Engineering and Informatics and a Master's in Cybersecurity from the University of West Attica, I possess diverse skills. I am a verified Cisco CCNA and CCNA Security professional, Microsoft SC-100, SC-200 and (ISC)² CC holder, IBM Certified Analyst QRadar v7.4.3, and proficient in C, C++, Python, PHP and Bash. As a former L1 SOC Analyst at Space Hellas S.A, I am currently a Cybersecurity Consultant at EY Greece.
+I am an enthusiastic cybersecurity professional with expertise in computer networking, cybersecurity, and programming. I hold an MSc in Computer Engineering and Informatics, as well as a Master's in Cybersecurity.
+Here, you'll find a collection of cybersecurity scripts, as well as Microsoft Defender XDR and Microsoft Sentinel KQL queries, including analytical rules, hunting queries, and parsers.
 <!--START_SECTION:badges-->
 [![Tanium Partner Demo Qualification](https://images.credly.com/size/110x110/images/a1f1d722-bc78-408d-a0b0-47e83197cd23/image.png)](http://www.credly.com/badges/37423e8d-f5d0-4a56-9684-5553e26cdcff "Tanium Partner Demo Qualification")
 [![EY Cybersecurity - Bronze Learning (2023)](https://images.credly.com/size/110x110/images/227f0a86-7b47-4a7f-b8b4-8d3448194213/image.png)](http://www.credly.com/badges/45cfb305-7653-4828-be2d-2dae8dd9114c "EY Cybersecurity - Bronze Learning (2023)")
